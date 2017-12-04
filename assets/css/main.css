@@ -1,0 +1,46 @@
+.title-panda {
+	margin-bottom: 0px;
+}
+.gry-panda {
+	background-image: url(../images/one.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	padding-top: 40%;
+	filter: grayscale(1);
+}
+.about {
+	background-color: #9AE484;
+	border-top: 1.5em solid #ffab91;
+	border-bottom: 1.5em solid #ffab91;
+}
+.aboutPanda {
+	padding: 5% 2%;
+	margin: 10% 0;
+}
+.gry-panda2 {
+	background-image: url(../images/two.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	padding-top: 60%;
+	filter: grayscale(1);
+}
+.pictures {
+	text-align: center;
+	background-color: #9AE484;
+	border-top: 1.5em solid #ffab91;
+	border-bottom: 1.5em solid #ffab91;
+}
+.pictures img {
+	border: 1em solid #fff;
+	margin: 2%;
+}
+.gry-panda3 {
+	background-image: url(../images/tree.jpg);
+	background-repeat: no-repeat;
+	background-size: cover;
+	background-position: center;
+	padding-top: 50%;
+	filter: grayscale(1);
+}
